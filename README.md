@@ -1,3 +1,5 @@
-» Mon site web (accordé avec @clemeeeent)
-» accessible depuis https://oxoomy.fr
-» si vous avez des problèmes à faire remonter, privilègiez les emails : hello@oxoomy.fr :)
+🌐 • Les fichiers de mon site web (site accordé avec @clemeeeent)
+
+💻 • Mon site est accesible principalement sur https://oxoomy.fr
+
+📂 • En cas de souci ou en cas de suggestion, ouvrez une pull request, ou envoyez un email à hello@oxoomy.fr
