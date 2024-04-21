@@ -8,7 +8,7 @@
 /* Body styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f8f8f8;
+    background: linear-gradient(0deg, #050505 13%, #000a52 100%);
     color: #333;
     line-height: 1.6;
     padding-top: 50px; /* Adjust based on your header height */
