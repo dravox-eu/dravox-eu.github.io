@@ -28,7 +28,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #333;
+    color: #fff; /* Changé la couleur du texte en blanc */
     font-size: 18px;
 }
 
