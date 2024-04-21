@@ -5,7 +5,7 @@ body {
 }
 
 .container {
-    background: linear-gradient(0deg, #050505 13%, #000a52 100%);
+    background: linear-gradient(0deg, #000000, #000a52); /* Dégradé noir à bleu foncé */
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
@@ -42,5 +42,5 @@ h2 {
 }
 
 a:hover {
-    color: #FF5733;
+    color: #FF5733; /* Changé la couleur du survol en rouge */
 }
