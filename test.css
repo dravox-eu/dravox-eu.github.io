@@ -6,7 +6,7 @@ body {
 }
 
 .container {
-    background: linear-gradient(0deg, #050505, #000a52); /* Dégradé noir à bleu foncé */
+    background-image: linear-gradient(135deg, rgba(253, 8, 8, 1) 7%, rgba(0, 0, 0, 1) 62%);
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
