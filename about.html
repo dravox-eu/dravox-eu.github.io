@@ -8,7 +8,14 @@
     <link href="https://assets-global.website-files.com/662577361524d2ef8c8819a5/css/clement-3cdeda.webflow.43cc1a398.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic" rel="stylesheet" media="all">
     <style>
-        .center {
+        .section {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .section-content {
+            max-width: 800px; /* ajustez selon vos besoins */
             text-align: center;
         }
     </style>
@@ -35,7 +42,7 @@
         <div class="w-nav-overlay" id="w-nav-overlay-0"></div>
     </div>
     <div class="section">
-        <div class="container center">
+        <div class="container section-content">
             <section>
                 <h1><B>à propos de moi</B></h1>
                 <p>👨🏽‍🎓 » Je suis un collégien français.</p>
@@ -45,10 +52,10 @@
         </div>
     </div>
     <div class="section">
-        <div class="container center">
+        <div class="container section-content">
             <div class="w-layout-grid skills-grid">
                 <div id="w-node-dac044b7-be90-60f3-414d-4224828ffd8a-8c8819e3" class="skillset-wrap">
-                    <section class="center">
+                    <section>
                         <h1><B>centres d'intérêt</B></h1>
                         <p>💻 » Apprendre à développer.</p>
                         <p>🗣️ » Parler à mes amis.</p>
