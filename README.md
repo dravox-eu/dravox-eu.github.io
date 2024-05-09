@@ -1,4 +1,4 @@
-🌐 • Les fichiers de mon site web (accordé avec <a href="https://github.com/anglicus-eu">@anglicus-eu</a href>
+🌐 • Les fichiers de mon site web (accordé avec <a href="https://github.com/anglicus-eu">@anglicus-eu
 
 💻 • Mon site est accesible principalement sur https://dravox-eu.github.io
 
