@@ -1,5 +1,5 @@
-🌐 • Les fichiers de mon site web (accordé avec <a href="https://github.com/anglicus-eu">@anglicus-eu)
+🌐 • Les fichiers de mon site web (accordé avec <a href="https://github.com/clementme">@clementme)
 
-💻 • Mon site est accesible principalement sur https://dravox-eu.github.io
+💻 • Mon site est accesible principalement sur https://oxoomy.fr
 
-📂 • En cas de souci ou en cas de suggestion, ouvrez une pull request, ou envoyez un email à <I>pas disponible pour le moment</I>
+📂 • En cas de souci ou en cas de suggestion, ouvrez une pull request, ou envoyez un email à site@oxoomy.fr
